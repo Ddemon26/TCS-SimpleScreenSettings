@@ -1,0 +1,14 @@
+{
+    "name": "TCS.SimpleScreenSettings",
+    "rootNamespace": "TCS.SimpleScreenSettings",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

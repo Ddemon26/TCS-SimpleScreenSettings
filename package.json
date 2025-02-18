@@ -1,0 +1,14 @@
+{
+  "name": "com.tcs.simplescreensettings",
+  "displayName": "TCS-SimpleScreenSettings",
+  "description": "A simple screen settings menu for Unity",
+  "version": "1.0.1",
+  "keywords": ["Tent City Studio", "TCS", "MenuSettings", "Menu", "Settings"],
+  "category": "Tent City Studio",
+  "dependencies": {},
+  "author": {
+    "name": "Damon Fedorick",
+    "url": "https://github.com/Ddemon26/TCS-SimpleScreenSettings"
+  },
+  "documentationUrl": "https://github.com/Ddemon26/TCS-SimpleScreenSettings/blob/main/README.md"
+}
