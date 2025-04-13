@@ -15,8 +15,8 @@ namespace TCS.SimpleScreenSettings {
         public bool m_isMenuOpen; // Dont save this to player prefs.
         public bool m_limitFpsInMenu;
         public bool m_limitFpsInBackground;
-    
-        ScreenSettingsPrefs m_prefs = new();
+
+        readonly ScreenSettingsPrefs m_prefs = new();
 
         public void SetResolution() {
             if (!m_screenRes.Equals(m_originalScreenRes)) {
